@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+settings.json
+data/
+simulate/fake_teamviewer.log
