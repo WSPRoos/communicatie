@@ -1,0 +1,2 @@
+# Geen externe dependencies: alleen de Python-standaardbibliotheek wordt gebruikt
+# (tkinter zit bij de standaard Python-installatie op Windows).

@@ -1,0 +1,8 @@
+{
+  "api_base_url": "https://webapi.teamviewer.com/api/v1",
+  "api_timeout_seconds": 15,
+  "teamviewer_exe": "C:\\Program Files\\TeamViewer\\TeamViewer.exe",
+  "simulate": false,
+  "fake_teamviewer_script": "",
+  "api_token": ""
+}
